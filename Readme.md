@@ -18,7 +18,7 @@ Aşağıdak sorular cevaplayın:
 
 a) Defterinizde çizdiğiniz grafiğin eğimini ne buldunuz? (Defterinizde noktaları birleştirirken kesiksiz tek bir doğru ile birleştirin.  Noktalar çizdiğiniz doğruya olabildiğince yakın olsun. Çizdiğiniz doğru noktaları ortalasın! Ölçümümüzde hata olacağından bazı noktalar o doğru dışında kalacaktır. Önemli olan o noktaları yaklaşık olarak ortalayan bir doğru çizmek.) Ne dediğimi daha iyi anlamak için başka bir [videoyu](https://www.youtube.com/watch?v=s0YMDXf-2SI) seyredebilirsiniz.    
 
-**Cevap:** **Grafiğin eğimini 21,78 N/m buldum.**
+**Cevap:** **Grafiğin eğimini 22,8 N/m buldum.**
 
 b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8Yvb5NjG3bL3VnrP7Rth6o/edit?usp=sharing) dosyasını inceleyin ve bilgisayar ile nasıl grafik çizildiğini anlayın. Bilgisayar kendi grafiğini çizerken ileri düzeyde matematik hesaplamalar yapıyor ve en iyi doğruyu çiziyor (Sizin bunu bilmenize gerek yok!)  Bilgisayarla eğim bulmak için [Google Sheet kullanarak eğim bulma] (https://tr.geekmarkt.com/how-find-slope-google-sheets) derslerini kullanabilirsiniz. Bilgisayarın hesapladığı eğim formülü *y = 21.7x + 0.25* ile veriliyor. Sizin elle çizdiğiniz grafiğin eğim formülü nedir? Aşağıya sizin bulduğunuz eğim formülünü yazın. 
 **Cevap:** **Grafiğimin eğim formülü 21.6x+0.253 olarak buldum.**
@@ -33,18 +33,18 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 # Bölüm 2
 3. [Bu Videoyu](https://www.youtube.com/watch?v=EbVeoJBjHTw) izleyin. Hangi öğrenci tipine benziyorsun? (Sizin yönünüze göre)
-**Cevap**: (Soldaki), (Ortadaki), (Sağdaki)
+**Cevap**: **Ortadaki**
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
-**Cevap**:
+**Cevap**: **Bulduğum değer -640. Yani videodaki değerle eşit.**
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-|          |     |
-|          |     |
-|        |     |
-|        |    |
-|        |     |
+|1.59         | 0.031    |
+|3.48          |0.034     |
+|6.16        |0.037     |
+|9.95        |0.04    |
+|12.35        |0.043     |
 
-6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](https://docs.google.com/spreadsheets/d/1LOoEoMMjMKWggoWzTdTzOn_BEfS1jvhvMnVlEFgBzG8/edit#gid=0). 
 
